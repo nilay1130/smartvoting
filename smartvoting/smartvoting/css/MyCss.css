@@ -1,0 +1,103 @@
+﻿ body{   
+		  overflow-x:hidden;
+     background-color:#000000;
+			overflow-y:scroll;
+             height:100%;
+	 }
+ html,body {
+     height: 100%;
+ }
+
+* html #container {
+height: 100%;
+}
+	 #cerceve{background-color:#FFF;padding:0; height:100%;min-height: 100%;z-index: 1;}
+	 #menu{padding:0px;height: 85px;  background-color: 
+#393838;  line-height:85px;  color: #fff; 
+   
+}
+    #menu ul{list-style:none;}
+	#menu ul li{width:15%;text-align:center;float:left;}
+	#menu ul li:hover{color:#fff;background-color:#2f4f4f;}
+	#menu ul li a{color:#fff;font-size: 16px;display:block;}
+    #menu ul li a:hover {text-decoration: none;}
+
+   
+	
+   
+
+        
+        .fa-facebook:hover{color:#3b5998;background-color:#fff;}
+		.fa-twitter:hover{color:#00aced;background-color:#fff;}
+		.fa-linkedin:hover{color:#007bb6;background-color:#fff;}
+        @import url(http://fonts.googleapis.com/css?family=Roboto);
+
+#login {
+    padding-top: 50px
+}
+
+#login p {
+    color:#000000;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+#login .form-group {
+    margin-bottom: 20px;
+}
+#login .checkbox {
+    margin-bottom: 20px;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+#login .checkbox .character-checkbox {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+    display: inline-block;
+}
+#login .checkbox .label {
+    color: #6d6d6d;
+    font-size: 13px;
+    font-weight: normal;
+}
+#login .btn.btn-custom {
+    font-size: 14px;
+	margin-bottom: 20px;
+}
+#login .forget {
+    font-size: 13px;
+	text-align: center;
+	display: block;
+}
+
+/*    --------------------------------------------------
+	:: Inputs & Buttons
+	-------------------------------------------------- */
+.form-control {
+    color: #212121;
+}
+.btn-custom {
+    color: #fff;
+	background-color:#2f4f4f;
+}
+.btn-custom:hover,
+.btn-custom:focus {
+    color: #fff;
+}
+#logo {
+    height: 85px;line-height: 85px;
+    background-color:#393838
+  
+}
+#menu1{ position: relative;
+}
